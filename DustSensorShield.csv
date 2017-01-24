@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P3";"Socket_Strip_Arduino_1x10";1;"Digital";;;
+2;"P4";"Socket_Strip_Arduino_1x08";1;"Digital";;;
+3;"P7,P8,P5,P6";"Arduino_1pin";4;"CONN_1";;;
+4;"P1";"Socket_Strip_Arduino_1x08";1;"Power";;;
+5;"P2";"Socket_Strip_Arduino_1x06";1;"Analog";;;
+6;"G***";"donotcare";1;"LOGO";;;
+7;"DS1";"WC1602A";1;"LCD16X2";;;
+8;"P9";"USB_Micro-B";1;"USB_B";;;
+9;"P10";"Molex_PicoBlade_53261-0671";1;"CONN_01X06";;;
+10;"R1";"R_0603_HandSoldering";1;"91R";;;
